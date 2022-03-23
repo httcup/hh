@@ -76,11 +76,6 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
-                name: '开发日志',
-                link: 'https://kksan.top/f5404b68deeb4634b39dac0bc67ec693',
-                box_shadow: '#F18033',
-                icon: 'img/log.png',
-            }, {
                 name: '酷安',
                 link: 'https://www.coolapk.com',
                 box_shadow: '#11B063',
@@ -121,8 +116,8 @@ $(function() {
                 box_shadow: '#c01d2f',
                 icon: 'img/hupu.png',
             }, {
-                name: '斗鱼',
-                link: 'https://www.douyu.com/',
+                name: '百度',
+                link: 'https://baidu.com',
                 box_shadow: '#fe7700',
                 icon: 'img/douyu.png',
             }, {
