@@ -119,7 +119,7 @@ $(function() {
                 name: '百度',
                 link: 'https://baidu.com',
                 box_shadow: '#fe7700',
-                icon: 'img/douyu.png',
+                icon: '',
             }, {
                 name: 'CSDN',
                 link: 'https://www.csdn.net/',
