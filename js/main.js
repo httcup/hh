@@ -79,7 +79,7 @@ $(function() {
                 name: '切导航版',
                 link: 'https://boyhh.gitee.io',
                 box_shadow: '#F18033',
-                icon: 'img/log.png',
+                icon: 'img/wangzhi.png',
             }, {
                 name: '今日热榜',
                 link: 'https://tophub.today',
