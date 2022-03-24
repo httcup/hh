@@ -106,7 +106,7 @@ $(function() {
                 box_shadow: '#F57923',
                 icon: 'img/wjcs.png',
             }, {
-                name: '剪切板',
+                name: '粘贴存储',
                 link: 'https://netcut.c',
                 box_shadow: '#2C2C2C',
                 icon: 'img/jianqie.png',
@@ -121,7 +121,7 @@ $(function() {
                 box_shadow: '#c01d2f',
                 icon: 'img/bangdang.png',
             }, {
-                name: '看报纸',
+                name: '全国报纸',
                 link: 'http://www.53bk.com/baokan',
                 box_shadow: '#fe7700',
                 icon: 'img/baozhi.png',
