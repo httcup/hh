@@ -76,15 +76,15 @@ function rgb2hex(rgb) {
 $(function() {
         var bookmark = {
             data: [{
-                name: '开发日志',
-                link: 'https://kksan.top/f5404b68deeb4634b39dac0bc67ec693',
+                name: '导航版',
+                link: 'https://boyhh.gitee.io',
                 box_shadow: '#F18033',
                 icon: 'img/log.png',
             }, {
-                name: '酷安',
-                link: 'https://www.coolapk.com',
+                name: '今日热榜',
+                link: 'https://tophub.today',
                 box_shadow: '#11B063',
-                icon: 'img/coolapk.png',
+                icon: 'img/headline.png',
             }, {
                 name: 'Via插件',
                 link: 'http://via-app.cn',
