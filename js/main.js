@@ -101,7 +101,7 @@ $(function() {
                 box_shadow: '#0078D8',
                 icon: 'img/zhihulogo.png',
             }, {
-                name: '微信文件传输',
+                name: '微信文件',
                 link: 'https://filehelper.weixin.qq.com',
                 box_shadow: '#F57923',
                 icon: 'img/headline.png',
