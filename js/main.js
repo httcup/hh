@@ -141,11 +141,6 @@ $(function() {
                 box_shadow: '#D7191A',
                 icon: 'img/txwendang.png',
             }, {
-                name: '古诗文网',
-                link: 'https://www.gushiwen.cn',
-                box_shadow: '#3279ea',
-                icon: 'img/shige.png',
-            }, {
                 name: '数字尾巴',
                 link: 'https://www.dgtle.com/',
                 box_shadow: '#62677b',
@@ -160,7 +155,12 @@ $(function() {
                 link: 'https://vp.fact.qq.com/home',
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
-            }]
+            }, {
+                name: '古诗文网',
+                link: 'https://www.gushiwen.cn',
+                box_shadow: '#3279ea',
+                icon: 'img/shige.png',
+            }, ]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
             if (bookmark.data[i].name == 'Via插件') {
