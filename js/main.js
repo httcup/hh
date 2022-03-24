@@ -86,8 +86,8 @@ $(function() {
                 box_shadow: '#2C2C2C',
                 icon: 'img/headline.png',
             }, {
-                name: '我的',
-                link: 'https://boyhh.gitee.io',
+                name: 'Via插件',
+                link: 'http://via-app.cn',
                 box_shadow: '#FA7199',
                 icon: 'img/via.png',
             }, {
