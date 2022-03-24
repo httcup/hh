@@ -85,7 +85,7 @@ $(function() {
                 link: 'https://tophub.today',
                 box_shadow: '#2C2C2C',
                 icon: 'img/headline.png',
-            }, {
+            },  {
                 name: 'Via插件',
                 link: 'http://via-app.cn',
                 box_shadow: '#FA7199',
