@@ -107,7 +107,7 @@ $(function() {
                 icon: 'img/wjcs.png',
             }, {
                 name: '粘贴存储',
-                link: 'https://netcut.c',
+                link: 'https://netcut.cc',
                 box_shadow: '#2C2C2C',
                 icon: 'img/jianqie.png',
             }, {
@@ -136,11 +136,6 @@ $(function() {
                 box_shadow: '#AC6E2F',
                 icon: 'img/wendang.png',
             }, {
-                name: '腾讯文档',
-                link: 'https://docs.qq.com/desktop',
-                box_shadow: '#D7191A',
-                icon: 'img/txwendang.png',
-            }, {
                 name: '数字尾巴',
                 link: 'https://www.dgtle.com/',
                 box_shadow: '#62677b',
@@ -160,6 +155,11 @@ $(function() {
                 link: 'https://www.gushiwen.cn',
                 box_shadow: '#3279ea',
                 icon: 'img/shige.png',
+            }, {
+                name: '腾讯文档',
+                link: 'https://docs.qq.com/desktop',
+                box_shadow: '#D7191A',
+                icon: 'img/txwendang.png',
             }, ]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
