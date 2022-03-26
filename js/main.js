@@ -86,6 +86,11 @@ $(function() {
                 box_shadow: '#11B063',
                 icon: 'img/headline.png',
             }, {
+                name: '果汁排行',
+                link: 'http://guozhivip.com/rank',
+                box_shadow: '#c01d2f',
+                icon: 'img/bangdang.png',
+            }, {
                 name: 'Via插件',
                 link: 'http://via-app.cn',
                 box_shadow: '#FA7199',
@@ -115,11 +120,6 @@ $(function() {
                 link: 'https://web.baimiaoapp.com',
                 box_shadow: '#37bf4c',
                 icon: 'img/baimiao.png',
-            }, {
-                name: '果汁排行',
-                link: 'http://guozhivip.com/rank',
-                box_shadow: '#c01d2f',
-                icon: 'img/bangdang.png',
             }, {
                 name: '全国报纸',
                 link: 'http://www.53bk.com/baokan',
@@ -155,11 +155,6 @@ $(function() {
                 link: 'https://www.gushiwen.cn',
                 box_shadow: '#3279ea',
                 icon: 'img/shige.png',
-            }, {
-                name: '腾讯文档',
-                link: 'https://docs.qq.com/desktop',
-                box_shadow: '#D7191A',
-                icon: 'img/txwendang.png',
             }, ]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
