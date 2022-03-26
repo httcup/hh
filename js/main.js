@@ -101,15 +101,35 @@ $(function() {
                 box_shadow: '#F2584A',
                 icon: 'img/weixindushu.png',
             }, {
+                name: '古诗文网',
+                link: 'https://www.gushiwen.cn',
+                box_shadow: '#3279ea',
+                icon: 'img/shige.png',
+            }, {
+                name: '全国报纸',
+                link: 'http://www.53bk.com/baokan',
+                box_shadow: '#fe7700',
+                icon: 'img/baozhi.png',
+            }, {
                 name: '知乎',
                 link: 'https://www.zhihu.com/',
                 box_shadow: '#0078D8',
                 icon: 'img/zhihulogo.png',
             }, {
+                name: '谷歌学术',
+                link: 'http://scholar.hedasudi.com',
+                box_shadow: '#c5000a',
+                icon: 'img/guge.png',
+            }, {
                 name: '微信文件',
                 link: 'https://filehelper.weixin.qq.com',
                 box_shadow: '#F57923',
                 icon: 'img/wjcs.png',
+            }, {
+                name: '腾讯文档',
+                link: 'https://docs.qq.com/desktop',
+                box_shadow: '#62677b',
+                icon: 'img/txwd.png',
             }, {
                 name: '粘贴存储',
                 link: 'https://netcut.cc',
@@ -120,16 +140,6 @@ $(function() {
                 link: 'https://web.baimiaoapp.com',
                 box_shadow: '#37bf4c',
                 icon: 'img/baimiao.png',
-            }, {
-                name: '全国报纸',
-                link: 'http://www.53bk.com/baokan',
-                box_shadow: '#fe7700',
-                icon: 'img/baozhi.png',
-            }, {
-                name: '谷歌学术',
-                link: 'http://scholar.hedasudi.com',
-                box_shadow: '#c5000a',
-                icon: 'img/guge.png',
             }, {
                 name: '文档转换',
                 link: 'https://www.alltoall.net',
@@ -150,11 +160,6 @@ $(function() {
                 link: 'https://vp.fact.qq.com/home',
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
-            }, {
-                name: '古诗文网',
-                link: 'https://www.gushiwen.cn',
-                box_shadow: '#3279ea',
-                icon: 'img/shige.png',
             }, ]
         }
         for (var i = 0; i < bookmark.data.length; i++) {
