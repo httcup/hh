@@ -132,7 +132,7 @@ $(function() {
                 icon: 'img/txwd.png',
             }, {
                 name: '粘贴存储',
-                link: 'https://netcut.cc',
+                link: 'https://netcut.cn',
                 box_shadow: '#2C2C2C',
                 icon: 'img/jianqie.png',
             }, {
