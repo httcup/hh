@@ -146,8 +146,8 @@ $(function() {
                 box_shadow: '#AC6E2F',
                 icon: 'img/wendang.png',
             }, {
-                name: '数字尾巴',
-                link: 'https://www.dgtle.com/',
+                name: '文本存储',
+                link: 'https://txtpad.cn/',
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
