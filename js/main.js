@@ -90,12 +90,7 @@ $(function() {
                 link: 'http://guozhivip.com/rank',
                 box_shadow: '#c01d2f',
                 icon: 'img/bangdang.png',
-            }, {
-                name: 'Via插件',
-                link: 'http://via-app.cn',
-                box_shadow: '#FA7199',
-                icon: 'img/via.png',
-            }, {
+            },{
                 name: '微信读书',
                 link: 'https://r.qq.com',
                 box_shadow: '#F2584A',
@@ -151,13 +146,13 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
-                name: '疫情跟踪',
-                link: 'https://app.21jingji.com/html/2020yiqing/',
+                name: '影视资源',
+                link: 'https://boyhh.gitee.io/ys/',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
-                name: '疫情辟谣',
-                link: 'https://vp.fact.qq.com/home',
+                name: '待更新',
+                link: 'https://baidu.com',
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
             }, ]
