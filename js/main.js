@@ -146,8 +146,8 @@ $(function() {
                 box_shadow: '#62677b',
                 icon: 'img/shuziweiba.png',
             }, {
-                name: '影视资源',
-                link: 'https://boyhh.gitee.io/ys/',
+                name: '影视网盘',
+                link: 'https://boyhh.gitee.io',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
