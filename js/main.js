@@ -152,7 +152,82 @@ $(function() {
                 icon: 'img/ding.png',
             }, {
                 name: '待更新',
-                link: 'https://baidu.com',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
+                box_shadow: '#00A0E9',
+                icon: 'img/true.png',
+            },{
+                name: '待更新',
+                link: 'https://xhxh.vip',
                 box_shadow: '#00A0E9',
                 icon: 'img/true.png',
             }, ]
@@ -383,16 +458,16 @@ function check() {
 var d = new Date();
 var time = d.getHours();
 if (time < 24) {
-    document.getElementById("title").innerHTML = "xhxh.vip";
+    document.getElementById("title").innerHTML = "xhxh.vip|小胡小胡主页";
 }
 if (time < 18) {
-    document.getElementById("title").innerHTML = "xhxh.vip ";
+    document.getElementById("title").innerHTML = "xhxh.vip|小胡小胡主页 ";
 }
 if (time < 12) {
-    document.getElementById("title").innerHTML = "xhxh.vip";
+    document.getElementById("title").innerHTML = "xhxh.vip|小胡小胡主页";
 }
 if (time < 5) {
-    document.getElementById("title").innerHTML = "xhxh.vip";
+    document.getElementById("title").innerHTML = "xhxh.vip|小胡小胡主页";
 }
 //title问候语结束
 
