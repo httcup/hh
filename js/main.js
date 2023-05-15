@@ -77,7 +77,7 @@ $(function() {
         var bookmark = {
             data: [{
                 name: '切导航版',
-                link: 'https://boyhh.gitee.io',
+                link: 'https://httcup.gitee.io',
                 box_shadow: '#F18033',
                 icon: 'img/wangzhi.png',
             }, {
