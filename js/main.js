@@ -147,7 +147,7 @@ $(function() {
                 icon: 'img/shuziweiba.png',
             }, {
                 name: '影视网盘',
-                link: 'https://boyhh.gitee.io',
+                link: 'shipin.html',
                 box_shadow: '#7C5DC7',
                 icon: 'img/ding.png',
             }, {
@@ -383,16 +383,16 @@ function check() {
 var d = new Date();
 var time = d.getHours();
 if (time < 24) {
-    document.getElementById("title").innerHTML = "小胡小胡的收藏| Good evening";
+    document.getElementById("title").innerHTML = "xhxh.vip";
 }
 if (time < 18) {
-    document.getElementById("title").innerHTML = "小胡小胡的收藏 | Good afternoon";
+    document.getElementById("title").innerHTML = "xhxh.vip ";
 }
 if (time < 12) {
-    document.getElementById("title").innerHTML = "小胡小胡的收藏 | Good morning";
+    document.getElementById("title").innerHTML = "xhxh.vip";
 }
 if (time < 5) {
-    document.getElementById("title").innerHTML = "小胡小胡的收藏| 别熬夜了";
+    document.getElementById("title").innerHTML = "xhxh.vip";
 }
 //title问候语结束
 
