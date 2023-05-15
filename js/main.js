@@ -383,16 +383,16 @@ function check() {
 var d = new Date();
 var time = d.getHours();
 if (time < 24) {
-    document.getElementById("title").innerHTML = "zhu.pw|主页";
+    document.getElementById("title").innerHTML = "主页|139t.cn";
 }
 if (time < 18) {
-    document.getElementById("title").innerHTML = "zhu.pw|主页 ";
+    document.getElementById("title").innerHTML = "主页|139t.cn ";
 }
 if (time < 12) {
-    document.getElementById("title").innerHTML = "zhu.pw|主页";
+    document.getElementById("title").innerHTML = "主页|139t.cn";
 }
 if (time < 5) {
-    document.getElementById("title").innerHTML = "zhu.pw|主页";
+    document.getElementById("title").innerHTML = "主页|139t.cn";
 }
 //title问候语结束
 
