@@ -77,7 +77,7 @@ $(function() {
         var bookmark = {
             data: [{
                 name: '切导航版',
-                link: 'https://httcup.com',
+                link: 'https://httcup.github.io',
                 box_shadow: '#F18033',
                 icon: 'img/wangzhi.png',
             }, {
